@@ -1,6 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 + Tailwind CSS Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Installation
+
+```bash
+npx nuxi init -t gravitano/nuxt-tailwind-starter nuxt-app
+cd nuxt-app
+yarn
+yarn dev
+```
 
 ## Setup
 
