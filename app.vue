@@ -8,6 +8,7 @@ const count = ref(0);
 const increment = () => count.value++;
 const decrement = () => count.value--;
 </script>
+
 <template>
   <div
     class="container mx-auto h-screen py-4 text-center grid place-items-center"
